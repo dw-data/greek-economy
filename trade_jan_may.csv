@@ -1,0 +1,155 @@
+YEAR,FLOW,SITC_1,DESCR_SITC_GR,DESCR_SITC_EN,VALUE IN EURO
+2013,IMPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"2,057,335,528"
+2013,IMPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"200,576,865"
+2013,IMPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","543,392,060"
+2013,IMPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","7,452,130,530"
+2013,IMPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","110,961,293"
+2013,IMPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","2,765,441,102"
+2013,IMPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"1,933,209,356"
+2013,IMPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"2,886,966,490"
+2013,IMPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"1,688,817,886"
+2013,IMPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"20,790,400"
+,,,,,
+,,,,,
+,,,,,
+2013,EXPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"1,460,095,811"
+2013,EXPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"237,961,164"
+2013,EXPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","417,527,830"
+2013,EXPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","4,445,468,462"
+2013,EXPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","378,680,597"
+2013,EXPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","1,035,966,350"
+2013,EXPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"1,604,083,416"
+2013,EXPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"843,958,526"
+2013,EXPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"669,349,694"
+2013,EXPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"250,147,328"
+,,,,,
+,,,,,
+,,,,,
+2014,IMPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"2,020,911,257"
+2014,IMPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"188,491,468"
+2014,IMPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","512,520,890"
+2014,IMPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","6,561,010,882"
+2014,IMPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","112,159,065"
+2014,IMPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","2,854,578,967"
+2014,IMPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"1,954,017,798"
+2014,IMPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"3,684,593,117"
+2014,IMPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"1,839,934,552"
+2014,IMPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"7,428,020"
+,,,,,
+,,,,,
+,,,,,
+2014,EXPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"1,463,604,812"
+2014,EXPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"205,972,120"
+2014,EXPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","409,421,654"
+2014,EXPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","4,023,354,723"
+2014,EXPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","112,771,130"
+2014,EXPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","1,117,793,582"
+2014,EXPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"1,552,677,082"
+2014,EXPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"859,005,757"
+2014,EXPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"702,095,972"
+2014,EXPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"242,363,812"
+,,,,,
+,,,,,
+,,,,,
+2015,IMPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"2,092,118,324"
+2015,IMPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"217,127,356"
+2015,IMPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","514,195,083"
+2015,IMPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","5,033,155,885"
+2015,IMPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","98,776,827"
+2015,IMPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","2,929,343,298"
+2015,IMPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"2,111,197,636"
+2015,IMPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"3,483,956,822"
+2015,IMPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"2,048,601,661"
+2015,IMPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"19,454,750"
+,,,,,
+,,,,,
+,,,,,
+2015,EXPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"1,516,054,483"
+2015,EXPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"261,605,648"
+2015,EXPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","426,117,071"
+2015,EXPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","3,225,170,506"
+2015,EXPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","361,282,683"
+2015,EXPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","1,131,680,056"
+2015,EXPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"1,791,847,325"
+2015,EXPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"1,055,074,998"
+2015,EXPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"736,528,551"
+2015,EXPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"271,136,101"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+2016,IMPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"2,108,681,503"
+2016,IMPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"265,615,581"
+2016,IMPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","471,132,626"
+2016,IMPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","3,332,630,432"
+2016,IMPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","101,736,147"
+2016,IMPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","2,951,524,520"
+2016,IMPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"2,168,473,756"
+2016,IMPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"4,463,131,015"
+2016,IMPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"2,088,993,672"
+2016,IMPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"27,862,211"
+,,,,,
+,,,,,
+,,,,,
+2016,EXPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"1,655,186,961"
+2016,EXPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"309,035,449"
+2016,EXPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","372,146,983"
+2016,EXPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","2,384,663,083"
+2016,EXPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","309,775,406"
+2016,EXPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","1,131,327,109"
+2016,EXPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"1,624,826,519"
+2016,EXPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"1,087,903,947"
+2016,EXPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"794,147,062"
+2016,EXPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"212,546,837"
+,,,,,
+,,,,,
+,,,,,
+2017(1),IMPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"2,279,044,677"
+2017(1),IMPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"244,391,931"
+2017(1),IMPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","530,131,741"
+2017(1),IMPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","5,212,757,674"
+2017(1),IMPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","114,245,314"
+2017(1),IMPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","3,113,260,082"
+2017(1),IMPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"2,492,857,861"
+2017(1),IMPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"5,574,797,927"
+2017(1),IMPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"2,187,688,871"
+2017(1),IMPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"132,812,232"
+,,,,,
+,,,,,
+,,,,,
+2017(1),EXPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"1,707,298,269"
+2017(1),EXPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"266,628,362"
+2017(1),EXPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","516,072,492"
+2017(1),EXPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","3,820,723,984"
+2017(1),EXPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","256,513,450"
+2017(1),EXPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","1,251,929,618"
+2017(1),EXPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"1,869,275,265"
+2017(1),EXPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"1,065,506,532"
+2017(1),EXPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"830,195,616"
+2017(1),EXPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"218,225,396"
+,,,,,
+,,,,,
+,,,,,
+2018(1),IMPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"2,301,191,574"
+2018(1),IMPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"265,739,009"
+2018(1),IMPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","578,852,643"
+2018(1),IMPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","6,003,463,753"
+2018(1),IMPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","103,282,277"
+2018(1),IMPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","3,329,014,172"
+2018(1),IMPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"2,677,338,577"
+2018(1),IMPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"4,383,271,557"
+2018(1),IMPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"2,310,871,491"
+2018(1),IMPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"13,208,931"
+,,,,,
+,,,,,
+,,,,,
+2018(1),EXPORTS,0,ΤΡΟΦΙΜΑ ΚΑΙ ΖΩΑ ΖΩΝΤΑΝΑ, Food and live animals ,"1,892,570,829"
+2018(1),EXPORTS,1,ΠΟΤΑ ΚΑΙ ΚΑΠΝΟΣ, Beverages and tobacco ,"277,768,731"
+2018(1),EXPORTS,2,"ΠΡΩΤΕΣ ΥΛΕΣ ΜΗ ΕΔΩΔΙΜΕΣ, ΕΚΤΟΣ ΑΠΟ ΚΑΥΣΙΜΑ"," Crude materials, inedible, except fuels","542,277,015"
+2018(1),EXPORTS,3,"ΟΡΥΚΤΑ, ΚΑΥΣΙΜΑ, ΛΙΠΑΝΤΙΚΑ, ΚΛΠ."," Mineral fuels, lubricants and related materials ","4,454,279,045"
+2018(1),EXPORTS,4,ΛΑΔΙΑ ΚΑΙ ΛΙΠΗ ΖΩΙΚΗΣ Η' ΦΥΤΙΚΗΣ ΠΡΟΕΛΕΥΣΗΣ," Animal and vegetable oils, fats and waxes","365,784,493"
+2018(1),EXPORTS,5,"ΧΗΜΙΚΑ ΠΡΟΙΟΝΤΑ ΚΑΙ ΣΥΝΑΦΗ, (Μ.Α.Κ.)"," Chemicals and related products, n.e.s. ","1,404,738,935"
+2018(1),EXPORTS,6,ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΥΡΙΩΣ ΚΑΤΑ ΠΡΩΤΗ ΥΛΗ, Manufactured goods classified chiefly by material  ,"2,144,527,399"
+2018(1),EXPORTS,7,ΜΗΧΑΝΗΜΑΤΑ ΚΑΙ ΥΛΙΚΟ ΜΕΤΑΦΟΡΩΝ, Machinery and transport equipment         ,"1,208,359,600"
+2018(1),EXPORTS,8,ΔΙΑΦΟΡΑ ΒΙΟΜΗΧΑΝΙΚΑ ΕΙΔΗ, Miscellaneous manufactured articles    ,"888,160,403"
+2018(1),EXPORTS,9,ΕΙΔΗ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΜΗ ΤΑΞΙΝΟΜΗΜΕΝΑ ΚΑΤΑ ΚΑΤΗΓΟΡΙΕΣ, Commodities and transactions not classified elsewhere in the SITC   ,"235,960,464"
