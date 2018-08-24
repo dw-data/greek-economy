@@ -2,7 +2,7 @@
 
 Idea, research, data analysis and writing: by [**Ioannis Antypas**](https://twitter.com/ioannisantypas)
 
-You can read the story here in English, Greek and German.
+You can read the story here in [English](https://p.dw.com/p/333Dd), [German](https://p.dw.com/p/338yf) and [Greek](https://p.dw.com/p/33Bul).
 
 ## Data Sources
 
